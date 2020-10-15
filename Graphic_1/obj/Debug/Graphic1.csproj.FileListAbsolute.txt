@@ -1,0 +1,10 @@
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic1.csprojAssemblyReference.cache
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic1.Form1.resources
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic_1.Properties.Resources.resources
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic1.csproj.GenerateResource.cache
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic1.csproj.CoreCompileInputs.cache
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic_1.exe
+D:\c#\Graphic_1\Graphic_1\obj\Debug\Graphic_1.pdb
+D:\c#\Graphic_1\Graphic_1\bin\Debug\Graphic_1.exe.config
+D:\c#\Graphic_1\Graphic_1\bin\Debug\Graphic_1.exe
+D:\c#\Graphic_1\Graphic_1\bin\Debug\Graphic_1.pdb
